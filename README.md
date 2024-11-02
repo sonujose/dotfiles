@@ -1,0 +1,2 @@
+# dotfiles
+ lua config nvim
